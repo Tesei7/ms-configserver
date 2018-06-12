@@ -12,7 +12,7 @@
 
 **docker run
   -p 8888:8888
-  --env ENCRYPT_KEY=\*\*\*\*\*\*
+  --env ENCRYPT_KEY=\*\*\*\*\*\*\*
   --env EUREKASERVER_PORT=8761
   --name ms-confserver
   --network ms-net
